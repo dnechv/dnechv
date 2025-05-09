@@ -1,6 +1,18 @@
+## About Me
 
+I'm Dmitry — currently studying computer science and building useful tools with Swift, Python, and a bit of machine learning.
 
-<!---
-dnechv/dnechv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### Projects
+- **MyPortfolio** — a SwiftUI iOS app for tracking stock investments (in progress) 
+- **Groupify** — Python tool for auto-generating student project groups
+- **StudyPlanner** — an AI-assisted study planning app (in progress)
+
+### Tools I use
+SwiftUI · Python · Git · Xcode · ·PyCharm ·VS Code · SwiftData · Pandas
+
+### Goals
+Build solid, real-world apps and get better at designing scalable, maintainable code.
+
+### Let's connect!
+- [LinkedIn]([https://linkedin.com/in/YOUR_USERNAME](https://www.linkedin.com/in/dmitry-nechvolod/)
+- [Email](mailto:dnechv@gmail.com)
