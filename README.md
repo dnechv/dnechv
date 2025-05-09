@@ -1,6 +1,6 @@
 ## About Me
 
-I'm Dmitry — currently studying computer science and building useful tools with Swift, Python, and a bit of machine learning.
+I'm Dmitry — currently studying computer science in Simon Fraser University and building useful tools with Swift, Python, and a bit of machine learning.
 
 ### Projects
 - **MyPortfolio** — a SwiftUI iOS app for tracking stock investments (in progress) 
