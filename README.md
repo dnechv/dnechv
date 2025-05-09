@@ -14,5 +14,5 @@ SwiftUI · Python · Git · Xcode · ·PyCharm ·VS Code · SwiftData · Pandas
 Build solid, real-world apps and get better at designing scalable, maintainable code.
 
 ### Let's connect!
-- [LinkedIn]([[https://linkedin.com/in/YOUR_USERNAME](https://www.linkedin.com/in/dmitry-nechvolod/)]
+- [LinkedIn]([[(https://www.linkedin.com/in/dmitry-nechvolod/)]
 - [Email](mailto:dnechv@gmail.com)
