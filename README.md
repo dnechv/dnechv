@@ -15,5 +15,5 @@ Python · Xcode · VS Code · Pandas
 To build solid, real-world applications while growing into a Project Manager role in software development.
 
 ### Get in Touch
-- [LinkedIn](https://www.linkedin.com/in/dmitry-nechvolod/)  
-- [Email](mailto:dnechv@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/dmitry-nechvolod/)  
+[Email](mailto:dnechv@gmail.com)
