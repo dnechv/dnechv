@@ -1,18 +1,19 @@
 ## About Me
 
-I'm Dmitry — currently studying computer science at Simon Fraser University and building useful tools with Swift, Python, and a bit of machine learning.
+I am Dmitry, currently studying computer science at Simon Fraser University and building useful tools with Swift, Python, and a bit of machine learning.
+With a background in software engineering and project coordination, I bridge the gap between technical development and project management translating user needs into clear goals and delivering practical tools serving diverse range of users.
 
 ### Projects
 - **MyPortfolio** — a SwiftUI iOS app for tracking stock investments (in progress) 
-- **Groupify** — Python tool for auto-generating student project groups
+- **Groupify** — Python tool for auto-generating student project groups (in progress) 
 - **StudyPlanner** — an AI-assisted study planning app (in progress)
 
 ### Tools I use
-SwiftUI · Python · Git · Xcode · PyCharm · VS Code · SwiftData · Pandas
+Python · Xcode · VS Code · Pandas
 
 ### Goals
-Build solid, real-world apps and design code that is both scalable fot all business needs and easy to maintain. 
+To build solid, real-world applications while growing into a Project Manager role in software development.
 
-### Let's connect!
-- [LinkedIn]([[(https://www.linkedin.com/in/dmitry-nechvolod/)]
+### Get in Touch
+- [LinkedIn](https://www.linkedin.com/in/dmitry-nechvolod/)  
 - [Email](mailto:dnechv@gmail.com)
