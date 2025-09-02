@@ -9,7 +9,7 @@ With a background in software engineering and project coordination, I bridge the
 - **StudyPlanner** — an AI-assisted study planning app (in progress)
 
 ### Tools I use
-Python · Xcode · VS Code · Pandas
+Python · Xcode · VS Code 
 
 ### Goals
 To build solid, real-world applications while growing into a Project Manager role in software development.
