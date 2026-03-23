@@ -10,7 +10,7 @@ I have experience developing end-to-end software systems, working with data-driv
 ---
 ### Tech Stack
 Swift · Python · Xcode · Git · VS Code  
-TensorFlow · Pandas · AI-assisted development (Cursor)
+TensorFlow · Pandas · AI-assisted development 
 
 ---
 ### Focus
