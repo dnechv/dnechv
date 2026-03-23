@@ -1,6 +1,6 @@
 ## About Me
 I am Dmitry, a Computer Science student at Simon Fraser University focused on building iOS applications and AI-driven systems using Swift and Python.
-I have experience developing end-to-end software systems, working with data-driven logic, and translating user needs into practical, functional applications.
+I have experience developing end-to-end software systems, working with data-driven logic, and translating user needs into functional applications.
 
 ### Projects
 - **MyPortfolio** — SwiftUI iOS app for tracking stock investments and managing portfolio data  
