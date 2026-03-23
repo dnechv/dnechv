@@ -16,7 +16,7 @@ TensorFlow · Pandas · AI-assisted development (Cursor)
 ### Focus
 - iOS development and user interface design  
 - AI-driven systems and data-based logic  
-- Building real-world applications end-to-end  
+- Building applications end-to-end  
 
 ---
 ### Contact
