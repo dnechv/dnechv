@@ -3,9 +3,10 @@ I am Dmitry, a Computer Science student at Simon Fraser University focused on bu
 I have experience developing end-to-end software systems, working with data-driven logic, and translating user needs into functional applications.
 
 ### Projects
-- **MyPortfolio** — SwiftUI iOS app for tracking stock investments and managing portfolio data  
-- **Groupify** — Python-based system for generating student groups using scoring algorithms and constraint logic  
-- **StudyPlanner** — AI-assisted study planning application for structured scheduling and productivity  
+- **Gymmy** — SwiftUI iOS app for workout tracking  
+- **Groupify** — Python-based system for generating student groups using scoring algorithms and constraint logic
+- **classifier_10_model** - Image Classification ML Model
+- **StudyPlanner** — Study planning application for structured scheduling and productivity  
 
 ---
 ### Tech Stack
