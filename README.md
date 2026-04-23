@@ -9,15 +9,14 @@ I have experience developing end-to-end software systems, working with data-driv
 - **StudyPlanner** — Study planning application for structured scheduling and productivity  
 
 ---
-### Tech Stack
+### Tools
 Swift · Python · Xcode · Git · VS Code  
-TensorFlow · Machine Learning · AI-assisted development 
+
 
 ---
 ### Focus
-- iOS development and user interface design  
-- AI-driven systems and data-based logic  
-- Building applications end-to-end  
+- iOS development  
+- AI-driven systems and data-based applications 
 
 ---
 ### Contact
